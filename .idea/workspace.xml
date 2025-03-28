@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb78d57f-227b-4c36-be1a-ba7c61b5aed4" name="Changes" comment="visuaalisten tulojen tulkinta" />
+    <list default="true" id="cb78d57f-227b-4c36-be1a-ba7c61b5aed4" name="Changes" comment="renamed files." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +94,15 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1743065771180</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="renamed files.">
+      <option name="closed" value="true" />
+      <created>1743160440509</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743160440509</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +112,8 @@
     <MESSAGE value="Dokumentaatio FCN" />
     <MESSAGE value="Loss korjaus" />
     <MESSAGE value="visuaalisten tulojen tulkinta" />
-    <option name="LAST_COMMIT_MESSAGE" value="visuaalisten tulojen tulkinta" />
+    <MESSAGE value="CNN dokumentaatio ja mallin rakennus valmis." />
+    <MESSAGE value="renamed files." />
+    <option name="LAST_COMMIT_MESSAGE" value="renamed files." />
   </component>
 </project>
