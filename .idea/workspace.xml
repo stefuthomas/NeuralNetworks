@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb78d57f-227b-4c36-be1a-ba7c61b5aed4" name="Changes" comment="renamed files." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kismet85&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/stefuthomas/NeuralNetworks.git",
+    "accountId": "3c728d9d-f568-4ab6-b49d-6e0809ebdf27"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ucTzyECL8wv0tJVIZ93fTJ6JMx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stefu\PycharmProjects\NeuralNetworks\projects\Hedelmät\Avocados" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb78d57f-227b-4c36-be1a-ba7c61b5aed4" name="Changes" comment="" />
+      <created>1742547128924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742547128924</updated>
+      <workItem from="1742547130008" duration="182000" />
+      <workItem from="1742547981414" duration="332000" />
+      <workItem from="1742548356495" duration="41000" />
+      <workItem from="1742548485817" duration="426000" />
+      <workItem from="1742551787748" duration="9344000" />
+      <workItem from="1742639978444" duration="1082000" />
+      <workItem from="1742818935774" duration="2104000" />
+      <workItem from="1742830689125" duration="224000" />
+      <workItem from="1743014265526" duration="1701000" />
+      <workItem from="1743060514798" duration="3168000" />
+      <workItem from="1743075132837" duration="37000" />
+    </task>
+    <task id="LOCAL−00001" summary="Dokumentaatio FCN">
+      <option name="closed" value="true" />
+      <created>1742820803966</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1742820803966</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Loss korjaus">
+      <option name="closed" value="true" />
+      <created>1743014517762</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1743014517762</updated>
+    </task>
+    <task id="LOCAL−00003" summary="visuaalisten tulojen tulkinta">
+      <option name="closed" value="true" />
+      <created>1743065771180</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1743065771180</updated>
+    </task>
+    <task id="LOCAL-00004" summary="renamed files.">
+      <option name="closed" value="true" />
+      <created>1743160440509</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743160440509</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dokumentaatio FCN" />
+    <MESSAGE value="Loss korjaus" />
+    <MESSAGE value="visuaalisten tulojen tulkinta" />
+    <MESSAGE value="CNN dokumentaatio ja mallin rakennus valmis." />
+    <MESSAGE value="renamed files." />
+    <option name="LAST_COMMIT_MESSAGE" value="renamed files." />
+  </component>
+</project>
