@@ -1,0 +1,18 @@
+/projects/CIFAR-10/mnist_cnn.keras
+/exportToHTML/MNIST_Keras.ipynb.html
+.xml
+.idea
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+/misc.xml
+/modules.xml
+/NeuralNetworksProj.iml
+/inspectionProfiles/profiles_settings.xml
+/inspectionProfiles/Project_Default.xml
+/vcs.xml
