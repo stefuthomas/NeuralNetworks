@@ -135,10 +135,46 @@ articles += [(url, summary, "iltalehti") for url, summary in zip(
 articles += [(url, summary, "mtv") for url, summary in zip(
     [
         "https://www.mtvuutiset.fi/artikkeli/trumpin-vihjailu-kolmannesta-kaudesta-yltyy-myynnissa-hammastyttava-tuote/9143602",
-        "https://www.mtvuutiset.fi/artikkeli/nyt-se-on-varmaa-ville-peltoselle-potkut/9143752"
+        "https://www.mtvuutiset.fi/artikkeli/nyt-se-on-varmaa-ville-peltoselle-potkut/9143752",
+        "https://www.mtvuutiset.fi/artikkeli/erika-vikman-tekee-paljastuksen-uudesta-viisuvaatetuksestaan-maailmanluokan-asu/9143654",
+        "https://www.mtvuutiset.fi/artikkeli/trump-venaja-tehnyt-isoja-myonnytyksia/9143508",
+        "https://www.mtvuutiset.fi/artikkeli/trumpin-vihjailu-kolmannesta-kaudesta-yltyy-myynnissa-hammastyttava-tuote/9143602",
+        "https://www.mtvuutiset.fi/artikkeli/suomalaisopiskelija-aku-seuraa-aitiopaikalta-trumpin-harvard-hyokkaysta-pelottava-tilanne/9143368",
+        "https://www.mtvuutiset.fi/artikkeli/suomalaisyritykset-ovat-puhuneet-murskaluku-kertoo-paljon-luottamuksesta-usa-an/9143634",
+        "https://www.mtvuutiset.fi/artikkeli/paavin-ruumista-kaynyt-katsomassa-yli-128-000-ihmista/9143636",
+        "https://www.mtvuutiset.fi/artikkeli/cbs-lavrov-sanoi-venajan-olevan-valmis-sopimukseen-yhdysvaltojen-kanssa-tiettyja-elementteja-jotka-vaativat-hienosaatoa/9143652",
+        "https://www.mtvuutiset.fi/artikkeli/venajan-ammusvaraston-rajahdys-nakyi-sysmassa/9143734",
+        "https://www.mtvuutiset.fi/artikkeli/kuukausiennuste-kesa-nakyvissa/9143612",
+        "https://www.mtvuutiset.fi/artikkeli/kristen-stewartin-intiimit-haakuvat-julki/9143542",
+        "https://www.mtvuutiset.fi/artikkeli/yokylassa-maria-veitola-jatkuu-juhlakauden-merkeissa/9143326",
+        "https://www.mtvuutiset.fi/artikkeli/seiska-erika-vikman-on-eronnut/9131098",
+        "https://www.mtvuutiset.fi/artikkeli/gasellit-yhtyeelta-yllatysilmoitus/9143598",
+        "https://www.mtvuutiset.fi/artikkeli/sorrutko-tahan-harhaluuloon-punkeista-valitettavasti-niin-ei-ole/9143272",
+        "https://www.mtvuutiset.fi/artikkeli/tassa-ovat-love-island-suomi-sinkut/9124560",
+        "https://www.mtvuutiset.fi/artikkeli/toimittaja-ida-kukkapuron-aiti-on-myos-hanen-siskonsa-se-oli-kaytannon-jarjestely/9135810",
+        "https://www.mtvuutiset.fi/artikkeli/veera-jarkyttyi-iphonen-kuvahaun-tuloksesta-lihavuusstigma-on-terveysriski-johon-ministeriokin-nyt-puuttuu/9139542",
+        "https://www.mtvuutiset.fi/artikkeli/asiantuntija-varoittaa-mokkihajusta-vaatteissa-monesti-viite-siita-etta-jotain-on-pielessa/9139652"
     ],
     [
-
+        "Donald Trump on vihjaillut olevansa avoin kolmannelle presidenttikaudelle.",
+        "Helsingin IFK on vapauttanut päävalmentaja Ville Peltosen sekä apuvalmentajat Samuel Tilkasen ja Marko Ojasen tehtävistään. Peltosen alaisuudessa HIFK:n paras saavutus oli neljäs sija, mutta kolmesti joukkue putosi jo puolivälierissä. Kannattajat vaativat Peltosen eroa jo kauden aikana, erityisesti SaiPa-sarjan aikana. Seura tiedotti asiasta perjantaina.",
+        "Erika Vikman valmistautuu edustamaan Suomea Baselin Euroviisuissa kappaleellaan Ich komme, ja hänen esiintymisasunsa on parhaillaan työn alla. Muotisuunnittelija Anna Sarasojan suunnittelema asu on Vikmanin mukaan maailmanluokan luomus, jossa on paljon asennetta. Euroopan yleisradiounioni EBU on kuitenkin toivonut asuun muutoksia sen seksuaalisen sävyn vuoksi, erityisesti takapuolen peittämistä, mutta Vikman vakuuttaa, ettei tämä hidasta hänen menoaan. Ainoana yksityiskohtana hän paljastaa, että asussa on mustaa nahkaa.",
+        "Yhdysvaltain presidentti Donald Trump väittää painostavansa Venäjää lopettamaan sodan Ukrainassa ja pitää Venäjän päätöstä olla valtaamatta koko maata suurena myönnytyksenä. Trumpin mukaan Venäjä on valmis sopimukseen, mutta Ukrainan kanssa neuvottelut ovat olleet vaikeampia. Naton pääsihteeri Mark Rutte korostaa, että neuvottelupallo on nyt Venäjällä, ja pitää maata pitkän aikavälin uhkana euroatlanttiselle alueelle. Samaan aikaan Venäjä teki mittavan ilmaiskun Kiovaan, jossa kuoli ainakin 12 ihmistä ja loukkaantui yli 90, mikä herätti Trumpin kritiikin Putinin suuntaan.",
+        "Donald Trump on jälleen vihjannut mahdollisuudesta kolmannelle presidenttikaudelle, vaikka Yhdysvaltain perustuslaki sallii vain kaksi kautta. Hänen verkkokauppaansa on ilmestynyt myyntiin punainen Trump2028-lippalakki, jonka mainoskuvissa esiintyy hänen poikansa Eric Trump. Trump on aiemmin ehdottanut strategiaa, jossa hän toimisi varapresidenttinä ja nousisi presidentiksi, jos valittu presidentti eroaisi. Tällaiset vihjailut ovat herättäneet huolta hänen pyrkimyksistään kiertää perustuslaillisia rajoituksia.",
+        "Suomalaisyritysten luottamus Yhdysvaltoihin on heikentynyt merkittävästi, mikä näkyy vientilukujen laskuna. Yritykset ovat huolissaan poliittisista jännitteistä ja kauppasuhteiden epävarmuudesta.",
+        "Pietarinkirkossa esillä olevaa paavi Franciscuksen ruumista on käynyt katsomassa yli 128 000 ihmistä. Hautajaiset pidetään lauantaina, ja paikalle odotetaan lukuisia valtionpäämiehiä ja monarkkeja.",
+        "Venäjän ulkoministeri Sergei Lavrov ilmoitti, että Venäjä on valmis tekemään sopimuksen Yhdysvaltojen kanssa Ukrainan sodan lopettamiseksi. Hän kuitenkin totesi, että jotkin sopimuksen yksityiskohdat vaativat vielä hienosäätöä.",
+        "Venäjällä Kirzhatshskissa tapahtunut suuri ammusvaraston räjähdys havaittiin myös Suomessa, muun muassa Sysmässä ja Kangasniemellä. Seismologian instituutin mukaan räjähdyksen voimakkuus oli Suomessa 3,2–3,4. Räjähdyksessä tuhoutui yli 100 000 tonnia sotatarvikkeita.",
+        "Vaikka vappuviikolla voi esiintyä vielä viileitä jaksoja, kuukausiennuste ennustaa keski- ja eteläiseen Suomeen keskimääräistä lämpimämpää säätä toukokuun aikana. Kesäiset lämpötilat voivat saapua jo toukokuun puolivälin jälkeen.",
+        "Näyttelijä Kristen Stewart ja Dylan Meyer avioituivat Meksikossa 20. huhtikuuta. Meyer jakoi sosiaalisessa mediassa intiimejä kuvia seremoniasta, jossa pariskunta juhli läheisten ystävien ja perheen kanssa.",
+        "Maria Veitolan suosittu ohjelma Yökylässä Maria Veitola palaa ruutuihin juhlistaen 10. tuotantokauttaan. Uudella kaudella Veitola vierailee jälleen tunnettujen suomalaisten kodeissa intiimien keskustelujen merkeissä.",
+        "Artisti Erika Vikman on eronnut pohjanmaalaisesta lääkärimiehestään, jonka kanssa hän seurusteli parin vuoden ajan. Vikman kertoo eron olevan jo käsitelty ja molempien jatkaneen eteenpäin elämässään.",
+        "Rap-yhtye Gasellit ilmoitti jäävänsä parin vuoden keikkatauolle syksyllä 2025. Ennen taukoa yhtye kiertää Suomea 26 keikan verran toukokuusta syyskuuhun.",
+        "Punkkikausi on alkanut vilkkaasti, ja havaintoja on tehty jo yli 13 000 kertaa. Puutiaisia esiintyy yhä enemmän myös kaupunkien puistoissa, eikä niiden levinneisyys rajoitu enää vain maaseudulle. Ilmaston lämpeneminen on laajentanut punkkien esiintymisalueita pohjoisemmaksi. Pureman jälkeen punkki tulisi poistaa heti, ja borrelioosin sekä puutiaisaivokuumeen riski on hyvä tiedostaa.",
+        "Love Island Suomi palaa viidennellä tuotantokaudellaan, ja mukana on kymmenen uutta sinkkua, kuten muusikko Benjamin ja thainyrkkeilijä Emma. Ohjelmassa seurataan heidän ihmissuhteitaan, parinvalintojaan ja mahdollisia romansseja. Katsojat voivat vaikuttaa tapahtumiin äänestämällä, ja kauden lopuksi valitaan voittajapari.",
+        "Toimittaja-kirjailija Ida Kukkapuron isovanhemmat adoptoivat hänet alle 10-vuotiaana, jolloin hänen biologisesta äidistään tuli juridisesti hänen siskonsa. Kukkapuro kertoo, että järjestely oli käytännön ratkaisu, eikä se vaikuttanut hänen arkeensa merkittävästi. Hän käsittelee aihetta esikoiskirjassaan Sisaruuksia.",
+        "Somevaikuttaja Veera Bianca huomasi, että iPhonen kuvahaku näytti hakusanalla valas kuvia hänestä, mutta ei hoikemmasta ystävästään. Tapaus nosti esiin tekoälyn mahdollisen lihavuusstigman, johon sosiaali- ja terveysministeriökin aikoo puuttua.",
+        "Rakennusterveysasiantuntija Riikka Hopealinna varoittaa, että mökiltä palaamisen jälkeen vaatteisiin jäävä tunkkainen haju voi viitata sisäilmaongelmiin, kuten mikrobikasvustoon tai pieneläinten aiheuttamiin epäpuhtauksiin. Säännöllinen ilmanvaihto ja huolellinen huolto ovat avainasemassa ongelmien ehkäisyssä."
     ]
 )]
 
