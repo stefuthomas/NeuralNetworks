@@ -28,6 +28,7 @@ yle = [
     "https://yle.fi/a/74-20157596",
     "https://yle.fi/a/74-20158034"
 ]
+
 yle_summaries = [
     "Joroisten kunnassa on vakava rottaongelma...",
     "Entiset ministerit Matti Vanhanen ja Osmo Soininvaara kritisoivat yhteisöveron laskemista..."
@@ -44,7 +45,7 @@ iltasanomat = [
 ]
 
 iltasanomat_summaries = [
-    ]
+]
 
 iltalehti = [
     "https://www.iltalehti.fi/ulkomaat/a/73a46709-9483-4d82-8b5a-41fe2ebf989d"
@@ -61,8 +62,8 @@ mtv_summaries = [
 ]
 
 
-urls = yle + hs + iltalehti + mtv + iltasanomat
-summaries = yle_summaries + hs_summaries + iltalehti_summaries + mtv_summaries + iltasanomat_summaries
+urls = yle + hs + iltasanomat + iltalehti + mtv
+summaries = yle_summaries + hs_summaries + iltasanomat_summaries + iltalehti_summaries + mtv_summaries
 
 dataset = []
 
