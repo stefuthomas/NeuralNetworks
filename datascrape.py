@@ -8,7 +8,7 @@ def scrape_article(url, article_type):
     soup = BeautifulSoup(response.content, 'html.parser')
 
     article = soup.find('article')
-    main_container = soup.find('main-container')
+    main_container = soup.find('div', class_='main-container')
     article_text_div = soup.find('div', class_='article-text')
     article_body = soup.find('section', class_='article-body')
 
