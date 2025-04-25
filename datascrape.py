@@ -28,6 +28,7 @@ yle = [
     "https://yle.fi/a/74-20157596",
     "https://yle.fi/a/74-20158034"
 ]
+
 yle_summaries = [
     "Joroisten kunnassa on vakava rottaongelma...",
     "Entiset ministerit Matti Vanhanen ja Osmo Soininvaara kritisoivat yhteisöveron laskemista..."
@@ -38,6 +39,12 @@ hs = [
 ]
 hs_summaries = [
     "Taloustutkijoiden mukaan hallituksen 12 miljoonan euron yritystukileikkaus on erittäin pieni..."
+]
+
+iltasanomat = [
+]
+
+iltasanomat_summaries = [
 ]
 
 iltalehti = [
@@ -55,8 +62,8 @@ mtv_summaries = [
 ]
 
 
-urls = yle + hs + iltalehti + mtv
-summaries = yle_summaries + hs_summaries + iltalehti_summaries + mtv_summaries
+urls = yle + hs + iltasanomat + iltalehti + mtv
+summaries = yle_summaries + hs_summaries + iltasanomat_summaries + iltalehti_summaries + mtv_summaries
 
 dataset = []
 
