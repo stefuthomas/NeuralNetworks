@@ -37,11 +37,48 @@ articles = []
 articles += [(url, summary, "yle") for url, summary in zip(
     [
         "https://yle.fi/a/74-20157596",
-        "https://yle.fi/a/74-20158034"
+        "https://yle.fi/a/74-20158034",
+        "https://yle.fi/a/74-20156510",
+        "https://yle.fi/a/74-20158036",
+        "https://yle.fi/a/74-20157865",
+        "https://yle.fi/a/74-20157835",
+        "https://yle.fi/a/74-20157826",
+        "https://yle.fi/a/74-20157833",
+        "https://yle.fi/a/74-20157365",
+        "https://yle.fi/a/74-20157667",
+        "https://yle.fi/a/74-20157442",
+        "https://yle.fi/a/74-20157482",
+        "https://yle.fi/a/74-20157946",
+        "https://yle.fi/a/74-20154410",
+        "https://yle.fi/a/74-20157432",
+        "https://yle.fi/a/74-20147962",
+        "https://yle.fi/a/74-20157960",
+        "https://yle.fi/a/74-20141411",
+        "https://yle.fi/a/74-20125540",
+        "https://yle.fi/a/74-20078368"
     ],
     [
-        "Joroisten kunnassa on vakava rottaongelma...",
-        "Entiset ministerit Matti Vanhanen ja Osmo Soininvaara kritisoivat yhteisöveron laskemista..."
+        "Joroisten kunnassa on vakava rottaongelma. Rottahavainnot alkoivat ennen joulua, ja tilanne paheni lumien sulettua. Ongelman alkuperä on todennäköisesti keskustassa sijainnut vanha elokuvateatteri, joka purettiin syksyllä. Kunta ottaa ongelman vakavasti, ja ammattilaiset aloittavat rottien teholoukutuksen pikimmiten. ",
+        "Entiset ministerit Osmo Soininvaara ja Matti Vanhanen kritisoivat hallituksen päätöstä laskea yhteisöveroa 18 prosenttiin. Soininvaaran mukaan päätös rapauttaa veropohjaa ja hyödyttää lähinnä olemassa olevia yrityksiä, ilman että se tuo merkittävää kasvua tai uusia investointeja. Vanhanen puolestaan huomauttaa, että suurin osa osingoista menee ulkomaille, eikä ole varmuutta siitä, että veronalennus lisäisi investointeja Suomeen.",
+        "Uudet energiatehokkuusvaatimukset tulevat voimaan Suomessa ensi vuonna. Taloyhtiöt pelkäävät kalliita remontteja, mutta huoli voi olla turha. Tuulivoiman lisääntyminen on vähentänyt sähkön päästöjä, mikä vähentää korjaustarvetta. Rakennusneuvos kannustaa energiatehokkuuden parantamiseen jo ennakkoon. EU:n tavoitteena on, että asuminen on päästötöntä vuoteen 2050 mennessä. Nyt meneillään ovat lausunnot uusista energiatehokuuteen liittyvistä säädöksistä.",
+        "Helsingin Meilahteen avataan toukokuussa 2025 uusi silmäsairaala nimeltä Tammisairaala. Sairaala vastaa kasvavaan silmäsairauksien määrään erityisesti ikääntyvän väestön keskuudessa ja tarjoaa hoitoa myös harvinaisille ja vaikeille tapauksille. Tilat sisältävät yli 200 vastaanottotilaa, 15 leikkaussalia ja 12 vuodeosastopaikkaa, ja korvaavat vanhat, huonokuntoiset sairaalat. Nimi viittaa alueen tammipuihin ja tilojen joustavaan käyttöön tulevaisuudessa.",
+        "Helsingin ja Uudenmaan sairaanhoitopiiri (HUS) aloittaa uudet yt-neuvottelut, jotka koskevat 200 laitoshuollon työntekijää Helsingin sosiaalihuollon toimipisteissä. Neuvottelujen taustalla on laitoshuoltopalveluiden siirtyminen kaupungin omalle vastuulle vuoden 2026 alussa, mutta henkilöstö ei siirry palvelun mukana. HUS etsii irtisanomisille vaihtoehtoja, kuten eläkejärjestelyjä, määräaikaisten työsuhteiden vähentämistä ja toimintojen uudelleenjärjestelyjä.",
+        "Hallituksen päätös leikata kuntien valtionosuuksia 75 miljoonalla eurolla aiheuttaa huolta erityisesti taloudellisesti ahtaalla olevissa pienissä kunnissa. Kuntaliiton mukaan säästöpaineet voivat kohdistua kouluihin ja muihin sivistystoimen palveluihin, jotka muodostavat merkittävän osan kuntien menoista. Esimerkiksi Virolahdella on jo tehty säästötoimia, kuten päiväkodin ja koulun lakkauttaminen, ja lisäleikkaukset kaventaisivat kunnan taloudellista liikkumavaraa entisestään.",
+        "Uudellamaalla työttömyys on kasvanut 15 prosenttia vuoden takaisesta, ja uusia avoimia työpaikkoja on lähes puolet vähemmän kuin viime vuonna. Pitkäaikaistyöttömyys on lisääntynyt erityisesti nuorten keskuudessa, ja kesätyö- sekä harjoittelupaikkojen saaminen on vaikeutunut. Yhdysvaltain tullipolitiikka on heikentänyt maailmantalouden näkymiä, mikä on vaikuttanut negatiivisesti alueen kansainvälisiin yrityksiin ja työllistämishalukkuuteen.",
+        "Korkeasaari on lopettanut lähes 13-vuotiaan amurintiikeri Tamurin, joka eli eläintarhassa 11 vuotta. Päätöstä perustellaan lisääntymisellä: kesällä Saksasta saapuu nuorempi uros, joka on valittu Tamurin jälkeläisen, Odeya-naaraan, kumppaniksi. Eläintarhan mukaan vanhojen ja nuorten urosten yhteiselo ei ole suositeltavaa, ja tarhaoloissa kilpailutilanteiden järjestäminen ei olisi eläimille hyväksi.",
+        "Ruotsin kruununprinsessa Victoria vieraili Espoon Hanasaaressa osallistuen huoltovarmuusseminaariin, jossa keskusteltiin Suomen ja Ruotsin yhteistyön tiivistämisestä kriisivalmiuden parantamiseksi. Ruotsin siviilipuolustusministeri Carl-Oscar Bohlin korosti Suomen kokemuksen merkitystä ja toivoi maiden jakavan turvallisuustilannekuvaa sekä tekevän yhteisiä materiaalihankintoja.",
+        "Keski-ikäistä miestä epäillään alaikäiseen kohdistuneista vakavista seksuaalirikoksista Vihdissä vuosina 2023–2025. Poliisin mukaan rikosepäilyt ovat laajentuneet törkeään ihmiskauppaan, törkeään lapsenraiskaukseen, lapsen houkuttelemiseen seksuaalisiin tarkoituksiin, seksuaaliseen kajoamiseen ja sen yritykseen, salakatseluun sekä seksuaalista lasta esittävän kuvan levittämiseen. Epäilty on ollut vangittuna koko esitutkinnan ajan, ja tapaus siirtyy nyt syyteharkintaan.",
+        "Helsingin kaupunki kilpailuttaa Haltialan kotieläintilan toiminnan. Kilpailulla etsitään uusia toiminta-ideoita. Kilpailu on avoin maatalous- ja matkailualan yrittäjille, joilla on tarvittava osaaminen ja kokemus.",
+        "Inarin kunta selvittää matkailun sosiaalisia vaikutuksia paikallisiin avoimella kyselyllä, joka on osa Visit Finlandin vastuullisuusohjelmaa. Kyselyllä kerätään kuntalaisten kokemuksia turismin vaikutuksista elinympäristöön, kulttuuriin ja yhteisöön, ja sen tuloksia hyödynnetään tulevien matkailuhankkeiden suunnittelussa.",
+        "Muoniossa Väiskintiellä 5. huhtikuuta syttynyt hallipalo aiheutti kymmenien tuhansien eurojen vahingot, ja poliisi epäilee palon olevan tahallaan sytytetty. Tutkinta jatkuu törkeänä vahingontekona, ja palopaikalla on käytetty muun muassa poliisin palokoiraa. Poliisi pyytää edelleen vihjeitä tapahtuneesta, ja asianomistaja tarjoaa ratkaisevasta vihjeestä palkkion.",
+        "Monet urheiluseurat kamppailevat vapaaehtoisten valmentajien puutteen kanssa, sillä tehtävä on yhä vaativampaa ja vie enemmän aikaa. Vanhempien kasvavat odotukset ja harrastamisen kallistuminen ajavat seuroja ammattimaistumaan tai kuihtumaan, ja nuoret järjestävät yhä useammin pelejä itsenäisesti somen kautta.",
+        "Jyväskylässä suunnitellaan vuosittaista Welcome to Jyväskylä -juhlaa, joka toivottaisi tervetulleiksi kaupungin uudet vieraskieliset asukkaat ja vahvistaisi osallisuutta sekä yhteenkuuluvuutta. Kaupunginhallitus suhtautui aloitteeseen myönteisesti, ja seuraavaksi asia etenee kaupunginvaltuuston käsittelyyn.",
+        "Torstaina 6. maaliskuuta mitattiin poikkeuksellisen korkeita lämpötiloja Suomen lounaisosassa, erityisesti Ahvenanmaan Jomalassa, missä lämpötila nousi iltapäivällä 14,2 asteeseen. Ilmatieteen laitoksen mukaan kyseessä on aikaisin ajankohta, jolloin Suomessa on ylitetty 13 asteen lämpötila.",
+        "Hallitus päätti kehysriihessä keventää suurituloisten verotusta laskemalla ylimmät marginaaliveroasteet 52 prosenttiin lähes 60 prosentista. Yle haastatteli kolmea hyvätuloista suomalaista heidän näkemyksistään veroalesta. Helsingin yliopiston professori Anu Lahtinen ei pidä veroalea merkittävänä omalla kohdallaan ja kokee, että kyseessä on harvan ihmisen ongelma. IT-alan yrittäjä Jaakko Olkkonen pitää päätöstä oikeansuuntaisena ja uskoo sen kannustavan työntekoon ja uralla etenemiseen",
+        "Ylöjärveläinen Sukkamestarit on saanut historiansa suurimman tilauksen Tanskan puolustusvoimilta, jotka ovat tilanneet nelivuotisella sopimuksella vähintään 750 000 paria merinovillaisia sukkia. Suomalaiset voittivat kansainvälisen tarjouskilpailun laadun perusteella, vaikka heidän tuotteensa olivat toiseksi kalleimmat. Tilauksen arvo on vähintään 4 miljoonaa euroa, mutta se voi nousta jopa 10,5 miljoonaan euroon. Sopimus avaa yritykselle mahdollisuuksia myös Naton hankintajärjestelmässä.",
+        "Ahvenanmaalla on järjestetty päivittäinen mielenosoitus Venäjän Maarianhaminan konsulaatin edustalla Ukrainan tukemiseksi siitä lähtien, kun Venäjä aloitti suurhyökkäyksensä helmikuussa 2022. Tiistaina 19. marraskuuta 2024 mielenosoitus saavutti 1000. päivänsä, ja tapahtuma oli tavallista juhlavampi, sisältäen muun muassa kymmenen minuutin hiljaisen hetken ja yhteislaulun Beethovenin Oodi ilolle. Mielenosoituksista on tullut myös matkailunähtävyys, ja osallistujat tuovat usein mukanaan koiriaan, minkä vuoksi tapahtumaa on leikkisästi kutsuttu nimellä Dogs against Putin.",
+        "Ilmatar-yhtiö suunnittelee noin sadan voimalan merituulipuistoa Vågskärin merialueelle, noin 30 kilometriä Ahvenanmaalta pohjoiseen, tuotannon alkaessa 2030-luvun alkupuolella. Varsinais-Suomen ELY-keskuksen mukaan hanke saattaa merkittävästi rajoittaa kalastusta ja vaikuttaa vaelluskalojen, kuten lohen ja vaellussiian, liikkeisiin. Lisäksi ELY-keskus kehottaa kiinnittämään huomiota maisemavaikutuksiin, linnustoon, vedenalaiseen meriluontoon sekä merenkulun turvallisuuteen."
+
     ]
 )]
 
