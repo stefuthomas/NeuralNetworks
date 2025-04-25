@@ -40,6 +40,12 @@ hs_summaries = [
     "Taloustutkijoiden mukaan hallituksen 12 miljoonan euron yritystukileikkaus on erittäin pieni..."
 ]
 
+iltasanomat = [
+]
+
+iltasanomat_summaries = [
+    ]
+
 iltalehti = [
     "https://www.iltalehti.fi/ulkomaat/a/73a46709-9483-4d82-8b5a-41fe2ebf989d"
 ]
@@ -55,8 +61,8 @@ mtv_summaries = [
 ]
 
 
-urls = yle + hs + iltalehti + mtv
-summaries = yle_summaries + hs_summaries + iltalehti_summaries + mtv_summaries
+urls = yle + hs + iltalehti + mtv + iltasanomat
+summaries = yle_summaries + hs_summaries + iltalehti_summaries + mtv_summaries + iltasanomat_summaries
 
 dataset = []
 
