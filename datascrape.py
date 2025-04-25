@@ -108,17 +108,7 @@ articles += [(url, summary, "iltalehti") for url, summary in zip(
         "https://www.iltalehti.fi/kuninkaalliset/a/7369dde1-9349-4ce1-8788-1c35bf19514f"
     ],
     [
-        "Britannia luopuu suunnitelmistaan lähettää joukkoja Ukrainaan..."
-    ]
-)]
-
-articles += [(url, summary, "mtv") for url, summary in zip(
-    [
-        "https://www.mtvuutiset.fi/artikkeli/trumpin-vihjailu-kolmannesta-kaudesta-yltyy-myynnissa-hammastyttava-tuote/9143602",
-        "https://www.mtvuutiset.fi/artikkeli/nyt-se-on-varmaa-ville-peltoselle-potkut/9143752"
-    ],
-    [
-        "Ville Peltonen on saanut potkut HIFK:n päävalmentajan tehtävästä kesken sopimuskauden heikkojen tulosten vuoksi, eikä myöskään valmennustiimin jäsenet Samuel Tilkanen ja Marko Ojanen jatka. HIFK-legendan nelivuotinen valmennusjakso toi vain yhden välieräpaikan ilman mitaleita, ja fanit ovat olleet pettyneitä. Samalla myös seuran toimitusjohtaja Alexander Sneen jättää tehtävänsä, mikä liittyy kauden jälkeiseen kohuun, jossa opiskelijahierojat kertoivat kokeneensa epäasiallista kohtelua IFK:ssa.",
+                "Ville Peltonen on saanut potkut HIFK:n päävalmentajan tehtävästä kesken sopimuskauden heikkojen tulosten vuoksi, eikä myöskään valmennustiimin jäsenet Samuel Tilkanen ja Marko Ojanen jatka. HIFK-legendan nelivuotinen valmennusjakso toi vain yhden välieräpaikan ilman mitaleita, ja fanit ovat olleet pettyneitä. Samalla myös seuran toimitusjohtaja Alexander Sneen jättää tehtävänsä, mikä liittyy kauden jälkeiseen kohuun, jossa opiskelijahierojat kertoivat kokeneensa epäasiallista kohtelua IFK:ssa.",
         "Britannia on vetäytymässä suunnitelmastaan lähettää tuhansia joukkoja Ukrainaan vartioimaan keskeisiä kohteita, ja aikoo sen sijaan keskittyä Ukrainan armeijan kouluttamiseen ja aseistamiseen. Lähteiden mukaan brittien ja ranskalaisten kouluttajat sijoitettaisiin Länsi-Ukrainaan kauas etulinjasta. Taustalla on eroavaisuus Britannian varovaisemman ja Ranskan voimakkaamman lähestymistavan välillä. Samaan aikaan britti- ja ranskalaistahot yrittävät saada Donald Trumpin ja presidentti Zelenskyin tapaamaan Roomassa paavi Franciscuksen hautajaisten yhteydessä rauhanedistämiseksi.",
         "Hallitus aikoo poistaa työsuhdepyörien verovapauden vuoden 2026 alusta, mikä uhkaa romahduttaa suositun edun synnyttämän alan ja vaarantaa tuhansia työpaikkoja. Yli 100 000 suomalaista on hankkinut työsuhdepyörän, ja useat alan toimijat sekä kansanedustajat ovat kritisoineet päätöstä voimakkaasti. Muoti- ja urheilukauppa ry:n mukaan veroton pyöräetu on tuottanut enemmän verotuloja kuin sen poistolla aiotaan saada, ja esityksen pelätään johtavan konkursseihin erityisesti pyöräliikkeissä. Päätöstä pidetään ristiriitaisena hallituksen ilmasto- ja terveyspoliittisten tavoitteiden kanssa.",
         "Kyberturvallisuuskeskus varoittaa S-pankin nimissä liikkuvista huijausviesteistä, joissa kehotetaan päivittämään käyttäjätietoja ja ohjataan huijaussivustolle. Sivustolla kalastellaan pankkitunnuksia, ja niiden päätyessä rikollisille tilin voi menettää nopeasti. Äskettäin uhri menetti 86 000 euroa vastaavassa huijauksessa, eikä pankki ollut korvausvelvollinen.",
@@ -138,6 +128,16 @@ articles += [(url, summary, "mtv") for url, summary in zip(
         "Entinen lapsinäyttelijä Sophie Nyweide kuoli 24-vuotiaana epäselvissä olosuhteissa, ja kuolinsyyntutkinta on edelleen kesken. Poliisi tutkii kuolemaa mahdollisena tahattomana yliannostuksena, mutta henkirikoksen mahdollisuus on myös avoinna. Nyweide löydettiin kuolleena joen rannalta Vermontista, ja hänen äitinsä kertoi, että tytär oli käyttänyt huumeita ja oli kuollessaan muiden seurassa. Nyweide tunnettiin rooleistaan elokuvissa kuten 'Noah' ja 'Mammoth', ja hänen viimeinen näyttelijäntyönsä oli vuonna 2015.",
         "Ruotsin kuningas Kaarle Kustaa ja kuningatar Silvia osallistuivat torstaina prinssi Andreaksen hautajaisiin Saksassa. Kuningatar Silvia tukeutui kävelykeppiin, koska hän oli aiemmin huhtikuussa käynyt leikkauksessa vaivaisenluun vuoksi. Hautajaisiin osallistuivat myös prinsessa Madeleine, Chris O'Neill ja prinsessa Christina. Kuningatar ja kuningas osallistuvat myös paavi Franciscuksen hautajaisiin Vatikaanissa lauantaina.",
         "Ruotsin kruununprinsessa Victoria vierailee parhaillaan Suomessa, ja hän osallistui keskiviikkoaamuna Hanasaaren kulttuurikeskuksessa konferenssiin. Victoria pukeutui Suomen väreihin sähkönsiniseen housupukuun, ja asun kruunasi Kalevalan Naisen ääni -rintakoru, joka symboloi tasa-arvoa. Korua on aiemmin nähty Victorialla useilla valtiovierailuilla, ja tällä kertaa se oli osa hänen Suomi-teemaa. Vierailun teemoihin kuuluu Suomen yksityisen ja julkisen sektorin yhteistyö huoltovarmuuden alalla."
+
+    ]
+)]
+
+articles += [(url, summary, "mtv") for url, summary in zip(
+    [
+        "https://www.mtvuutiset.fi/artikkeli/trumpin-vihjailu-kolmannesta-kaudesta-yltyy-myynnissa-hammastyttava-tuote/9143602",
+        "https://www.mtvuutiset.fi/artikkeli/nyt-se-on-varmaa-ville-peltoselle-potkut/9143752"
+    ],
+    [
 
     ]
 )]
