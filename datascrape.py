@@ -10,12 +10,12 @@ def scrape_article(url, article_type):
     article = soup.find('article')
     main_container = soup.find('main-container')
     article_text_div = soup.find('div', class_='article-text')
-    lane_container = soup.find(attrs={"data-testid": "main-lane-container"})
+    artice_body = soup.find('section', class_='article-body')
 
     if article_type == "yle" or article_type == "iltasanomat":
         paragraphs = article.find_all('p')
     elif article_type == "hs":
-        paragraphs = lane_container.find_all('p')
+        paragraphs = artice_body.find_all('p')
     elif article_type == "iltalehti":
         paragraphs = main_container.find_all('p')
     else:
