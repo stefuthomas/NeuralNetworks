@@ -208,7 +208,19 @@ articles += [(url, summary, "mtv") for url, summary in zip(
         "https://www.mtvuutiset.fi/artikkeli/tassa-ovat-love-island-suomi-sinkut/9124560",
         "https://www.mtvuutiset.fi/artikkeli/toimittaja-ida-kukkapuron-aiti-on-myos-hanen-siskonsa-se-oli-kaytannon-jarjestely/9135810",
         "https://www.mtvuutiset.fi/artikkeli/veera-jarkyttyi-iphonen-kuvahaun-tuloksesta-lihavuusstigma-on-terveysriski-johon-ministeriokin-nyt-puuttuu/9139542",
-        "https://www.mtvuutiset.fi/artikkeli/asiantuntija-varoittaa-mokkihajusta-vaatteissa-monesti-viite-siita-etta-jotain-on-pielessa/9139652"
+        "https://www.mtvuutiset.fi/artikkeli/asiantuntija-varoittaa-mokkihajusta-vaatteissa-monesti-viite-siita-etta-jotain-on-pielessa/9139652",
+        "https://www.mtvuutiset.fi/artikkeli/trumpilla-krapula-risto-e-j-penttila-tietaa-mita-presidentti-seuraavaksi-tekee/9146084",
+        "https://www.mtvuutiset.fi/artikkeli/isw-putin-pelkaa-nolostumista/9146220",
+        "https://www.mtvuutiset.fi/artikkeli/veijo-baltzar-joutuu-vankilaan/9146162",
+        "https://www.mtvuutiset.fi/artikkeli/nainen-loihti-murhaavan-maukkaan-wellingtonin-pihvin-pian-ex-miehen-vanhemmat-ja-tati-kuolivat/9146032",
+        "https://www.mtvuutiset.fi/artikkeli/cnn-usa-n-300-metrinen-lentotukialus-joutui-vaistamaan-ohjuksia-havittaja-putosi-kannelta-mereen/9146060",
+        "https://www.mtvuutiset.fi/artikkeli/tiktok-tahti-preston-2-on-kuollut/9146020",
+        "https://www.mtvuutiset.fi/artikkeli/nainen-synnytti-tietamattaan-vaaran-vauvan/9136750",
+        "https://www.mtvuutiset.fi/artikkeli/kela-korvauksiin-laajennusta-nama-muutokset-tulevat-pian-voimaan/9122782",
+        "https://www.mtvuutiset.fi/artikkeli/krp-ja-ruotsin-poliisi-paljastivat-vakavan-vakivaltarikoskokonaisuuden/9146208",
+        "https://www.mtvuutiset.fi/artikkeli/pyorailija-loytyi-kuolleena-ristiinassa-poliisi-kaipaa-havaintoja/9144832",
+        "https://www.mtvuutiset.fi/artikkeli/venaja-varoittaa-natoa-mikkeli-paatoksesta-mita-lahempana-joukot-ovat-sita-tarkempi-isku/9016202",
+        "https://www.mtvuutiset.fi/artikkeli/venaja-tuhosi-suomen-sotamuistomerkin-tali-ihantalassa/9145854"
     ],
     [
         "Donald Trump on vihjaillut olevansa avoin kolmannelle presidenttikaudelle.",
@@ -230,7 +242,19 @@ articles += [(url, summary, "mtv") for url, summary in zip(
         "Love Island Suomi palaa viidennellä tuotantokaudellaan, ja mukana on kymmenen uutta sinkkua, kuten muusikko Benjamin ja thainyrkkeilijä Emma. Ohjelmassa seurataan heidän ihmissuhteitaan, parinvalintojaan ja mahdollisia romansseja. Katsojat voivat vaikuttaa tapahtumiin äänestämällä, ja kauden lopuksi valitaan voittajapari.",
         "Toimittaja-kirjailija Ida Kukkapuron isovanhemmat adoptoivat hänet alle 10-vuotiaana, jolloin hänen biologisesta äidistään tuli juridisesti hänen siskonsa. Kukkapuro kertoo, että järjestely oli käytännön ratkaisu, eikä se vaikuttanut hänen arkeensa merkittävästi. Hän käsittelee aihetta esikoiskirjassaan Sisaruuksia.",
         "Somevaikuttaja Veera Bianca huomasi, että iPhonen kuvahaku näytti hakusanalla valas kuvia hänestä, mutta ei hoikemmasta ystävästään. Tapaus nosti esiin tekoälyn mahdollisen lihavuusstigman, johon sosiaali- ja terveysministeriökin aikoo puuttua.",
-        "Rakennusterveysasiantuntija Riikka Hopealinna varoittaa, että mökiltä palaamisen jälkeen vaatteisiin jäävä tunkkainen haju voi viitata sisäilmaongelmiin, kuten mikrobikasvustoon tai pieneläinten aiheuttamiin epäpuhtauksiin. Säännöllinen ilmanvaihto ja huolellinen huolto ovat avainasemassa ongelmien ehkäisyssä."
+        "Rakennusterveysasiantuntija Riikka Hopealinna varoittaa, että mökiltä palaamisen jälkeen vaatteisiin jäävä tunkkainen haju voi viitata sisäilmaongelmiin, kuten mikrobikasvustoon tai pieneläinten aiheuttamiin epäpuhtauksiin. Säännöllinen ilmanvaihto ja huolellinen huolto ovat avainasemassa ongelmien ehkäisyssä.",
+        "Risto E. J. Penttilän mukaan Donald Trumpin presidentinvaalikampanja on vaikeuksissa, ja hän saattaa joutua muuttamaan strategiaansa selviytyäkseen poliittisista haasteista.",
+        "ISW:n mukaan Venäjän presidentti Vladimir Putin pelkää kansainvälistä nöyryytystä, mikä vaikuttaa hänen päätöksentekoonsa ja strategioihinsa.",
+        "Kirjailija Veijo Baltzar on tuomittu vankeuteen seksuaalirikoksista, mikä on herättänyt laajaa keskustelua kulttuuripiireissä.",
+        "Australialaisnaista syytetään kolmesta murhasta ja yhdestä murhan yrityksestä, kun hänen valmistamansa Wellingtonin pihvi johti kolmen sukulaisen kuolemaan. Nainen kiistää syytteet ja väittää, että myrkylliset sienet joutuivat ruokaan vahingossa.",
+        "Yhdysvaltain lentotukialus USS Harry S. Truman joutui väistämään Jemenin huthien ampumia ohjuksia, minkä seurauksena kannella ollut hävittäjä putosi mereen.",
+        "Kaksivuotias TikTok-tähti Preston Ordone menehtyi auto-onnettomuudessa Louisianassa. Onnettomuuden jälkeen poliisi muistutti turvaistuimen oikean käytön tärkeydestä, mikä herätti keskustelua viranomaisten viestinnästä.",
+        "Australiassa nainen sai hedelmällisyysklinikalta vahingossa toisen pariskunnan alkion ja synnytti heidän biologisen lapsensa. Virhe huomattiin vasta myöhemmin, kun nainen pyysi siirtämään jäljelle jääneet alkiot toiseen klinikkaan. Tapaus on ensimmäinen laatuaan Australiassa ja herättää kysymyksiä lapsen huoltajuudesta.",
+        "Toukokuun 2025 alusta alkaen Kela-korvaukset laajenevat kattamaan muun muassa fysioterapian ilman lääkärin lähetettä, suuhygienistin hoidot, gynekologin palvelut ja hedelmöityshoidot. Muutosten tavoitteena on parantaa hoitoon pääsyä ja lisätä asiakkaiden valinnanvapautta.",
+        "Keskusrikospoliisi ja Ruotsin poliisi ovat paljastaneet laajan väkivaltarikoskokonaisuuden, jossa Ruotsin kansalaisten epäillään järjestäneen useita väkivallantekoja Ruotsissa ja Tanskassa. Tutkinnan mukaan pääepäilty rekrytoi tekijöitä Suomesta käsin, ja rikokset liittyvät myös huumausainerikoksiin. Osa epäillyistä on luovutettu Ruotsiin, ja esitutkinta jatkuu.",
+        "Mikkelissä, Ristiinan kaupunginosassa, 45-vuotias pyöräilijä löytyi kuolleena. Poliisi on pidättänyt autoilijan, jonka epäillään törmänneen pyöräilijään. Uhreilla ja epäillyllä oli yhteyksiä, ja heidät nähtiin samassa ravintolassa ennen tapahtumaa.",
+        "Venäjän valtapuolueen kansanedustaja Andrei Krasov varoitti, että mitä lähempänä Naton joukot ovat Venäjän rajaa, sitä tarkempi on Venäjän vastaisku mahdollisen hyökkäyksen sattuessa. Tämä kommentti liittyy Mikkeliin perustettavaan Naton alaesikuntaan, joka sijaitsee noin 100 kilometrin päässä Venäjän rajasta.",
+        "Venäläisviranomaiset ovat tuhonneet Suomen jatkosodan aikaisen muistokiven Tali-Ihantalassa. Venäjän mukaan muistomerkki glorifioi natseja, mikä on herättänyt huolta ja paheksuntaa Suomessa."
     ]
 )]
 
