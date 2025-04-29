@@ -271,5 +271,5 @@ for i, (url, summary, article_type) in enumerate(articles):
     except Exception as e:
         print(f"Virhe artikkelissa {url}: {e}")
 
-with open("../datasets/article_summary/finnish_articles.json", "w", encoding='utf-8') as f:
+with open("datasets/article_summary/finnish_articles.json", "w", encoding='utf-8') as f:
     json.dump(dataset, f, ensure_ascii=False, indent=2)
