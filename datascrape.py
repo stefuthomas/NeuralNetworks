@@ -58,7 +58,16 @@ articles += [(url, summary, "hs") for url, summary in zip(
         "https://www.hs.fi/helsinki/art-2000011187112.html",
         "https://www.hs.fi/politiikka/art-2000011188632.html",
         "https://www.hs.fi/urheilu/art-2000011186175.html",
-        "https://www.hs.fi/pkseutu/art-2000011190722.html"
+        "https://www.hs.fi/pkseutu/art-2000011190722.html",
+        "https://www.hs.fi/maailma/art-2000011196315.html",
+        "https://www.hs.fi/helsinki/art-2000011196101.html",
+        "https://www.hs.fi/helsinki/art-2000011194813.html",
+        "https://www.hs.fi/politiikka/art-2000011198105.html",
+        "https://www.hs.fi/tiede/art-2000011196351.html",
+        "https://www.hs.fi/maailma/art-2000011198669.html",
+        "https://www.hs.fi/kulttuuri/art-2000011197723.html",
+        "https://www.hs.fi/tiede/art-2000011191008.html"
+
     ],
     [
         "Norjan öljyrahaston tuotot laskivat 35 miljardia euroa vuoden ensimmäisellä neljänneksellä. Rahaston varoista yli puolet on sijoitettu Yhdysvaltoihin, ja kauppasota on vaikuttanut sijoitusten arvoon. Toimitusjohtaja Nicolai Tangen rauhoittelee tilannetta ja uskoo amerikkalais­yhtiöiden olevan hyviä pitkän aikavälin sijoituksia. Norjassa pelätään Yhdysvaltojen voivan takavarikoida rahaston varoja tai painostaa epäedullisiin sijoituksiin.",
@@ -72,7 +81,16 @@ articles += [(url, summary, "hs") for url, summary in zip(
         "Helsingin Roihuvuoren kirsikkapuut ovat lähellä täyttä kukintaa, kertoo kaupungin puuasiantuntija Juha Raisio. Hanami-juhla eli kirsikankukkajuhla järjestetään vasta kahden viikon kuluttua. Tänä vuonna järjestetään uutuutena yöhanami eli Yozakura, jossa valaistuja kirsikkapuita voi ihailla yöaikaan. Kukinnan runsautta Roihuvuoressa heikentää tammikuussa tehty puiden virheellinen leikkaus, joka vaikuttaa noin kahteen kolmasosaan puista.",
         "Hallituksen veronkevennysten dynaamiset vaikutukset ovat liian optimistisia, sanovat professorit Roope Uusitalo ja Kaisa Kotakorpi. Veronalennukset voivat kasvattaa julkista velkaa, sillä tutkimusnäyttö niiden talouskasvua kiihdyttävistä vaikutuksista on epävarmaa. Hallitus keventää verotusta kahdella miljardilla eurolla ja paikkaa syntyvää vajetta Valtion eläkerahastosta otettavalla miljardilainalla.",
         "Digita oy:n Antero-tv-palvelu sulkeutuu 31. toukokuuta vaikuttaen tuhansiin maksu-tv-asiakkaisiin antennitalouksissa. Palvelulla on ollut yli 20 000 tilaajaa, joista monet ovat iäkkäitä lineaarisen television katsojia. Lopetuksen syynä on sisältöjen jälleenmyynnin kannattamattomuus.",
-        "Jorvin sairaalan päivystys Espoossa suljettiin torstaina pariksi tunniksi tuhkarokkoepäilyn vuoksi. Länsi-Uudenmaan hyvinvointialueen viestintäpäällikkö Eliisa Anttila vahvisti, että sairaalassa oli tuhkarokkoepäily. Päivystyksen asiakkaat joutuivat odottamaan ulkopuolella ja tilat desifioitiin ennen uudelleen avaamista."]
+        "Jorvin sairaalan päivystys Espoossa suljettiin torstaina pariksi tunniksi tuhkarokkoepäilyn vuoksi. Länsi-Uudenmaan hyvinvointialueen viestintäpäällikkö Eliisa Anttila vahvisti, että sairaalassa oli tuhkarokkoepäily. Päivystyksen asiakkaat joutuivat odottamaan ulkopuolella ja tilat desifioitiin ennen uudelleen avaamista.",
+        "Donald Trump ja Volodymyr Zelenskyi tapasivat Vatikaanissa ennen paavi Franciscuksen hautajaisia. Poliittisen viestinnän tutkija Elisa Kannasto arvioi tapaamisen olleen tietoisesti rakennettu. Trump torjui elekielellään Ranskan presidentin Emmanuel Macronin ja keskittyi kahdenkeskiseen tapaamiseen Zelenskyin kanssa.",
+        "Vuosaaren metroliikenne katkeaa viideksi kuukaudeksi 5. toukokuuta alkaen metrosillan peruskorjauksen vuoksi. Yli 31 000 päivittäistä matkustajaa korvataan tiheällä bussilinjalla 99V Vuosaaren ja Itäkeskuksen välillä. Samalla Vuosaaren ja Rastilan metroasemilla tehdään remonttia ja uudistetaan teknisiä järjestelmiä.",
+        "Monet ravintolat pääkaupunkiseudulla kieltävät sisäänpääsyn opiskelijahaalareissa liiketoiminnan kannattavuuden vuoksi.  Helsinkiläisen Bierhaus München -olutravintolan ravintolapäällikkö Simo Kärki kertoo opiskelijoiden ostavan vähän ja vievän tilaa maksavilta asiakkailta.  Metropolia-ammattikorkeakoulun opiskelijat ymmärtävät haalarikiellon, sillä suuret opiskelijaryhmät häiritsevät muita asiakkaita erityisesti viikonloppuisin.",
+        "Kansanedustaja Päivi Räsänen (kd) kritisoi Alkon suunnitelmaa myydä vanhenevia alkoholituotteita alennettuun hintaan.  Räsänen pitää parempana vanhentuneiden juomien hävittämistä kuin myymistä alennettuun hintaan.  Alko aloitti maanantaina kokeilun, jossa poistotuotteita myydään 20 prosentin alennuksella kolmessa Tampereen myymälässä.",
+        "Juttelevan botin ohjelmia voidaan käyttää myös salattuihin viesteihin. Viesti voidaan piilottaa arkisen keskustelun lomaan. Oslon yliopiston tekoälyn tutkija kehitti ohjelman, joka upottaa salattuja viestejä tekoälyn keskusteluihin. Salattu viesti toistuu jaksoissa. Menetelmä voisi auttaa viestimään maissa, joissa yksilö kokee sortoa ja haluaa salata viestinsä.",
+        "Britannian NHS ryhtyy tutkimaan sukupuolenkorjausta haluavat alaikäiset autismin ja adhd:n varalta. Uudet sukupuoli-identiteettiklinikat korvaavat Tavistockin klinikan, jonka hoitojen epäillään vahingoittaneen potilaita. Lastenlääkäri Hilary Cass korostaa, että ahdistuneet lapset tulee nähdä kokonaisina ihmisinä.",
+        "Detroitin oopperassa esitetään teos viidestä syyttömänä tuomitusta newyorkilaisnuoresta vuoden 1989 raiskauksessa. Presidentti Donald Trump vaati aikoinaan kuolemantuomiota nuorille ja pitää heitä edelleen syyllisinä todisteiden vastaisesti. Oopperan tekijät ovat varautuneet Trumpin hallinnon mahdollisiin vastatoimiin esityksen vuoksi.",
+        "Tutkijat ovat selvittäneet muinaisen Deinosuchuksen kehittymistä. Communications Biology -lehdessä kerrotaan, että Deinosuchuksella oli suolarauhasia, kuten nykykrokotiileilla. Suolaveden sietäminen mahdollisti Deinosuchuksen leviämisen laajalle alueelle ja kasvamisen valtavaksi."
+    ]
 )]
 
 articles += [(url, summary, "iltasanomat") for url, summary in zip(
@@ -105,10 +123,10 @@ articles += [(url, summary, "iltalehti") for url, summary in zip(
         "https://www.iltalehti.fi/viihdeuutiset/a/0ef230a8-da6d-417c-b983-12c9279f9c2f",
         "https://www.iltalehti.fi/tv-ja-leffat/a/e2a217e3-8f5b-4acc-a339-96288821fb3b",
         "https://www.iltalehti.fi/kuninkaalliset/a/23cc97f3-8e54-4f7c-9d8b-fdab382f468c",
-        "https://www.iltalehti.fi/kuninkaalliset/a/7369dde1-9349-4ce1-8788-1c35bf19514f"
+        "https://www.iltalehti.fi/kuninkaalliset/a/7369dde1-9349-4ce1-8788-1c35bf19514f",
     ],
     [
-                "Ville Peltonen on saanut potkut HIFK:n päävalmentajan tehtävästä kesken sopimuskauden heikkojen tulosten vuoksi, eikä myöskään valmennustiimin jäsenet Samuel Tilkanen ja Marko Ojanen jatka. HIFK-legendan nelivuotinen valmennusjakso toi vain yhden välieräpaikan ilman mitaleita, ja fanit ovat olleet pettyneitä. Samalla myös seuran toimitusjohtaja Alexander Sneen jättää tehtävänsä, mikä liittyy kauden jälkeiseen kohuun, jossa opiskelijahierojat kertoivat kokeneensa epäasiallista kohtelua IFK:ssa.",
+        "Ville Peltonen on saanut potkut HIFK:n päävalmentajan tehtävästä kesken sopimuskauden heikkojen tulosten vuoksi, eikä myöskään valmennustiimin jäsenet Samuel Tilkanen ja Marko Ojanen jatka. HIFK-legendan nelivuotinen valmennusjakso toi vain yhden välieräpaikan ilman mitaleita, ja fanit ovat olleet pettyneitä. Samalla myös seuran toimitusjohtaja Alexander Sneen jättää tehtävänsä, mikä liittyy kauden jälkeiseen kohuun, jossa opiskelijahierojat kertoivat kokeneensa epäasiallista kohtelua IFK:ssa.",
         "Britannia on vetäytymässä suunnitelmastaan lähettää tuhansia joukkoja Ukrainaan vartioimaan keskeisiä kohteita, ja aikoo sen sijaan keskittyä Ukrainan armeijan kouluttamiseen ja aseistamiseen. Lähteiden mukaan brittien ja ranskalaisten kouluttajat sijoitettaisiin Länsi-Ukrainaan kauas etulinjasta. Taustalla on eroavaisuus Britannian varovaisemman ja Ranskan voimakkaamman lähestymistavan välillä. Samaan aikaan britti- ja ranskalaistahot yrittävät saada Donald Trumpin ja presidentti Zelenskyin tapaamaan Roomassa paavi Franciscuksen hautajaisten yhteydessä rauhanedistämiseksi.",
         "Hallitus aikoo poistaa työsuhdepyörien verovapauden vuoden 2026 alusta, mikä uhkaa romahduttaa suositun edun synnyttämän alan ja vaarantaa tuhansia työpaikkoja. Yli 100 000 suomalaista on hankkinut työsuhdepyörän, ja useat alan toimijat sekä kansanedustajat ovat kritisoineet päätöstä voimakkaasti. Muoti- ja urheilukauppa ry:n mukaan veroton pyöräetu on tuottanut enemmän verotuloja kuin sen poistolla aiotaan saada, ja esityksen pelätään johtavan konkursseihin erityisesti pyöräliikkeissä. Päätöstä pidetään ristiriitaisena hallituksen ilmasto- ja terveyspoliittisten tavoitteiden kanssa.",
         "Kyberturvallisuuskeskus varoittaa S-pankin nimissä liikkuvista huijausviesteistä, joissa kehotetaan päivittämään käyttäjätietoja ja ohjataan huijaussivustolle. Sivustolla kalastellaan pankkitunnuksia, ja niiden päätyessä rikollisille tilin voi menettää nopeasti. Äskettäin uhri menetti 86 000 euroa vastaavassa huijauksessa, eikä pankki ollut korvausvelvollinen.",
