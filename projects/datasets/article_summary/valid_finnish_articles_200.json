@@ -476,43 +476,43 @@
     "summary": "Lapin matkailu on elpymässä nopeasti, ja erityisesti ulkomaiset turistit palaavat alueelle."
   },
   {
-    'text': 'Sodankylässä järjestettiin talvivaellustapahtuma, jossa osallistujat kulkivat lumikengillä tunturimaisemissa.',
-    'summary': 'Sodankylän talvivaellus tarjosi elämyksiä lumen ja luonnon keskellä.'
+    "text": "Sodankylässä järjestettiin talvivaellustapahtuma, jossa osallistujat kulkivat lumikengillä tunturimaisemissa.",
+    "summary": "Sodankylän talvivaellus tarjosi elämyksiä lumen ja luonnon keskellä."
   },
   {
-    'text': 'Hattulassa käynnistettiin keräyskampanja, jossa asukkaat saavat tuoda käytettyjä vaatteita kierrätettäväksi.',
-    'summary': 'Hattulan keräyskampanja edistää kiertotaloutta ja materiaalien uusiokäyttöä.'
+    "text": "Hattulassa käynnistettiin keräyskampanja, jossa asukkaat saavat tuoda käytettyjä vaatteita kierrätettäväksi.",
+    "summary": "Hattulan keräyskampanja edistää kiertotaloutta ja materiaalien uusiokäyttöä."
   },
   {
-    'text': 'Ilomantsissa avattiin ortodoksinen ikoninäyttely, jossa esillä on teoksia paikallisilta taiteilijoilta.',
-    'summary': 'Ilomantsin näyttely tuo esiin ortodoksisen taiteen perinteitä.'
+    "text": "Ilomantsissa avattiin ortodoksinen ikoninäyttely, jossa esillä on teoksia paikallisilta taiteilijoilta.",
+    "summary": "Ilomantsin näyttely tuo esiin ortodoksisen taiteen perinteitä."
   },
   {
-    'text': 'Keiteleellä aloitettiin ympäristökasvatusprojekti, jossa koululaiset tutkivat paikallisia vesistöjä.',
-    'summary': 'Keiteleen koululaiset oppivat ympäristönsuojelua tutkimalla vesistöjä.'
+    "text": "Keiteleellä aloitettiin ympäristökasvatusprojekti, jossa koululaiset tutkivat paikallisia vesistöjä.",
+    "summary": "Keiteleen koululaiset oppivat ympäristönsuojelua tutkimalla vesistöjä."
   },
   {
-    'text': 'Luumäellä järjestettiin kylätanssit, jotka keräsivät eri-ikäisiä osallistujia yhteiseen iltaan.',
-    'summary': 'Luumäen kylätanssit yhdistivät musiikin ja sukupolvet juhlaan.'
+    "text": "Luumäellä järjestettiin kylätanssit, jotka keräsivät eri-ikäisiä osallistujia yhteiseen iltaan.",
+    "summary": "Luumäen kylätanssit yhdistivät musiikin ja sukupolvet juhlaan."
   },
   {
-    'text': 'Hausjärvellä perustettiin villiruokakerho, jossa opetellaan tunnistamaan ja valmistamaan luonnon antimia.',
-    'summary': 'Hausjärven villiruokakerho edistää luonnonmukaista ruuanlaittoa ja yhteisöllisyyttä.'
+    "text": "Hausjärvellä perustettiin villiruokakerho, jossa opetellaan tunnistamaan ja valmistamaan luonnon antimia.",
+    "summary": "Hausjärven villiruokakerho edistää luonnonmukaista ruuanlaittoa ja yhteisöllisyyttä."
   },
   {
-    'text': 'Pertunmaalla järjestettiin ensiapukurssi kyläläisille yhteistyössä SPR:n kanssa.',
-    'summary': 'Pertunmaan ensiapukurssi lisäsi kyläläisten valmiuksia hätätilanteissa.'
+    "text": "Pertunmaalla järjestettiin ensiapukurssi kyläläisille yhteistyössä SPR:n kanssa.",
+    "summary": "Pertunmaan ensiapukurssi lisäsi kyläläisten valmiuksia hätätilanteissa."
   },
   {
-    'text': 'Salla sai uuden matkailuinfon, jossa esitellään alueen retkeilyreitit ja kulttuurikohteet.',
-    'summary': 'Sallan uusi matkailuinfo tukee retkeilijöitä ja matkailijoita kattavalla tiedolla.'
+    "text": "Salla sai uuden matkailuinfon, jossa esitellään alueen retkeilyreitit ja kulttuurikohteet.",
+    "summary":"Sallan uusi matkailuinfo tukee retkeilijöitä ja matkailijoita kattavalla tiedolla."
   },
   {
-    'text': 'Askola avasi kirjastoon digipisteen, jossa voi skannata, tulostaa ja hoitaa digiasioita maksutta.',
-    'summary': 'Askolan kirjaston digipiste helpottaa kuntalaisten asiointia ja digitaalista arkea.'
+    "text": "Askola avasi kirjastoon digipisteen, jossa voi skannata, tulostaa ja hoitaa digiasioita maksutta.",
+    "summary": "Askolan kirjaston digipiste helpottaa kuntalaisten asiointia ja digitaalista arkea."
   },
   {
-    'text': 'Hankasalmella lanseerattiin kulttuurikortti, joka antaa alennuksia paikallisiin tapahtumiin ja palveluihin.',
-    'summary': 'Hankasalmen kulttuurikortti kannustaa osallistumaan paikalliseen kulttuuritarjontaan.'
+    "text": "Hankasalmella lanseerattiin kulttuurikortti, joka antaa alennuksia paikallisiin tapahtumiin ja palveluihin.",
+    "summary": "Hankasalmen kulttuurikortti kannustaa osallistumaan paikalliseen kulttuuritarjontaan."
   }
   ]
