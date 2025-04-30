@@ -220,7 +220,11 @@ articles += [(url, summary, "mtv") for url, summary in zip(
         "https://www.mtvuutiset.fi/artikkeli/krp-ja-ruotsin-poliisi-paljastivat-vakavan-vakivaltarikoskokonaisuuden/9146208",
         "https://www.mtvuutiset.fi/artikkeli/pyorailija-loytyi-kuolleena-ristiinassa-poliisi-kaipaa-havaintoja/9144832",
         "https://www.mtvuutiset.fi/artikkeli/venaja-varoittaa-natoa-mikkeli-paatoksesta-mita-lahempana-joukot-ovat-sita-tarkempi-isku/9016202",
-        "https://www.mtvuutiset.fi/artikkeli/venaja-tuhosi-suomen-sotamuistomerkin-tali-ihantalassa/9145854"
+        "https://www.mtvuutiset.fi/artikkeli/venaja-tuhosi-suomen-sotamuistomerkin-tali-ihantalassa/9145854",
+        "https://www.mtvuutiset.fi/artikkeli/trumpin-fanituotteista-paljastui-nolo-asia/9146632",
+        "https://www.mtvuutiset.fi/artikkeli/yhdysvaltalaiset-kyllastyivat-trumpin-politiikkaan-heti-kattelyssa-jopa-maahanmuuttopolitiikka-tokkii/9146440",
+        "https://www.mtvuutiset.fi/artikkeli/hirvikoira-hyokkasi-pihassa-kytketyn-koiran-kimppuun-ja-kuoli-korvausvaatimukset-yli-20-000-euroa/9146362",
+        "https://www.mtvuutiset.fi/artikkeli/mitka-tekijat-ravitsemuksessa-uhkaavat-suomalaisten-terveytta-eniten-sokeri-ei-edes-kolmen-pahimman-joukossa/9143848"
     ],
     [
         "Donald Trump on vihjaillut olevansa avoin kolmannelle presidenttikaudelle.",
@@ -254,7 +258,11 @@ articles += [(url, summary, "mtv") for url, summary in zip(
         "Keskusrikospoliisi ja Ruotsin poliisi ovat paljastaneet laajan väkivaltarikoskokonaisuuden, jossa Ruotsin kansalaisten epäillään järjestäneen useita väkivallantekoja Ruotsissa ja Tanskassa. Tutkinnan mukaan pääepäilty rekrytoi tekijöitä Suomesta käsin, ja rikokset liittyvät myös huumausainerikoksiin. Osa epäillyistä on luovutettu Ruotsiin, ja esitutkinta jatkuu.",
         "Mikkelissä, Ristiinan kaupunginosassa, 45-vuotias pyöräilijä löytyi kuolleena. Poliisi on pidättänyt autoilijan, jonka epäillään törmänneen pyöräilijään. Uhreilla ja epäillyllä oli yhteyksiä, ja heidät nähtiin samassa ravintolassa ennen tapahtumaa.",
         "Venäjän valtapuolueen kansanedustaja Andrei Krasov varoitti, että mitä lähempänä Naton joukot ovat Venäjän rajaa, sitä tarkempi on Venäjän vastaisku mahdollisen hyökkäyksen sattuessa. Tämä kommentti liittyy Mikkeliin perustettavaan Naton alaesikuntaan, joka sijaitsee noin 100 kilometrin päässä Venäjän rajasta.",
-        "Venäläisviranomaiset ovat tuhonneet Suomen jatkosodan aikaisen muistokiven Tali-Ihantalassa. Venäjän mukaan muistomerkki glorifioi natseja, mikä on herättänyt huolta ja paheksuntaa Suomessa."
+        "Venäläisviranomaiset ovat tuhonneet Suomen jatkosodan aikaisen muistokiven Tali-Ihantalassa. Venäjän mukaan muistomerkki glorifioi natseja, mikä on herättänyt huolta ja paheksuntaa Suomessa.",
+        "Donald Trumpin kampanjatuotteita myytiin Michiganin tapahtumassa väitteellä, että ne olisi valmistettu Valkoisen talon kellarissa. Todellisuudessa tuotteet oli valmistettu Kiinassa, mikä on ristiriidassa Trumpin protektionistisen politiikan kanssa. Tämä herätti huomiota erityisesti hänen kannattajiensa keskuudessa, jotka tukevat hänen tiukkaa kauppapolitiikkaansa.",
+        "Donald Trumpin toinen presidenttikausi on alkanut historiallisen alhaisella kannatuksella. Mielipidemittaukset osoittavat tyytymättömyyttä erityisesti hänen maahanmuuttopolitiikkaansa ja talouslinjauksiinsa, kuten tuontitulleihin ja niiden vaikutuksiin kuluttajahintoihin. Asiantuntijat kuitenkin arvioivat, että hallinnon kaatuminen on epätodennäköistä, vaikka tyytymättömyys kasvaisikin.",
+        "Raahessa järjestetyn hirvenhaukkukokeen aikana irti päässyt hirvikoira hyökkäsi yksityispihalla kytketyn koiran kimppuun. Hyökkäyksen seurauksena irti ollut koira kuoli, ja tapahtuma johti yli 20 000 euron korvausvaatimuksiin sekä syytteeseen eläinsuojelurikoksesta. Oikeudessa käsiteltiin, oliko hyökkäävää koiraa puolustettaessa käytetty tarpeetonta väkivaltaa.",
+        "MTV Uutisten mukaan suomalaiset mieltävät sokerin merkittäväksi terveysriskiksi, mutta ravitsemustieteen professori Mikael Fogelholm korostaa, että todelliset ravitsemukselliset haasteet liittyvät suolan liialliseen käyttöön, vähäiseen kuidun saantiin ja kovien rasvojen suosimiseen pehmeiden sijaan."
     ]
 )]
 
